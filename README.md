@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-[![Riya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=riyaueng&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-dark-mode-only)
+[![Riya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=riyaueng&custom_title=Riyaueng's+GitHub+Stats&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-dark-mode-only)
 
-[![Riya's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=riyaueng&show_icons=true&theme=catppuccin_latte&title_color=12C7B7&bg_color=00000000#gh-light-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-light-mode-only)
+[![Riya's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=riyaueng&custom_title=Riyaueng's+GitHub+Stats&show_icons=true&theme=catppuccin_latte&title_color=12C7B7&bg_color=00000000#gh-light-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaueng&layout=compact&theme=nightowl&title_color0B389E1#gh-dark-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-dark-mode-only)
 
