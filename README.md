@@ -6,10 +6,7 @@ An aspiring Frontend-Developer in training 👩🏻‍💻
 - 🚀 Expected graduation: End of Dezember 2025
 - 🎨 10 years work experience as Graphic Designer and Art Director  
 
-<!--
-**riyaueng/riyaueng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- More ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠️ Tech Stack:
-<!-- Static Icons:
+<!-- Static icons:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vscode,vite,npm,git,github,postman,netlify,supabase,figma,xd,ae,ai,ps&perline=10)](https://skillicons.dev) -->
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
