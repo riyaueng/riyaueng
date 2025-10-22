@@ -1,22 +1,12 @@
-## Hi, I'm Riya 👋
-An aspiring Frontend-Developer in training 👩🏻‍💻
+![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=53517A&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8)
+
+<!-- ## Hi, I'm Riya 👋
+An aspiring Frontend-Developer in training 👩🏻‍💻 -->
 
 ## 🍥 About me
 - 📚 Currently in training as AI WebApp Solutions Engineer 
 - 🚀 Expected graduation: End of Dezember 2025
 - 🎨 10 years work experience as Graphic Designer and Art Director  
-
-<!-- More ideas:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🛠️ Tech Stack:
 <!-- Static icons:
