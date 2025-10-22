@@ -15,8 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethariya-krause-358bb22b2/) 
-
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vscode,vite,npm,git,github,postman,netlify,supabase,figma,xd,ae,ai,ps&perline=10)](https://skillicons.dev)
+<!-- Static Icons:
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vscode,vite,npm,git,github,postman,netlify,supabase,figma,xd,ae,ai,ps&perline=10)](https://skillicons.dev) -->
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+
