@@ -1,7 +1,7 @@
 ## Hi, I'm Riya 👋
 An aspiring Frontend-Developer in training 👩🏻‍💻
 
-## About me
+## 🍥 About me
 - 📚 Currently in training as AI WebApp Solutions Engineer 
 - 🚀 Expected graduation: End of Dezember 2025
 - 🎨 10 years work experience as Graphic Designer and Art Director  
