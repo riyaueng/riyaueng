@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethariya-krause-358bb22b2/) 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vscode,vite,npm,git,github,postman,netlify,supabase,discord,figma,xd,ae,ai,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vscode,vite,npm,git,github,postman,netlify,supabase,figma,xd,ae,ai,ps&perline=10)](https://skillicons.dev)
