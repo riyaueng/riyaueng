@@ -4,7 +4,7 @@ An aspiring Frontend-Developer in training 👩🏻‍💻
 ## About me
 - 📚 Currently in training as AI WebApp Solutions Engineer 
 - 🚀 Expected graduation: End of Dezember 2025
-- 🎨 Over 10 years work experience as Graphic Designer and Art Director  
+- 🎨 10 years work experience as Graphic Designer and Art Director  
 
 <!--
 **riyaueng/riyaueng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
