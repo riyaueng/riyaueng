@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=2F3270&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8)
+<img width="3400" height="800" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/96e02e65-41c8-4633-9d0a-660ebbe839ff" />
+
+<!-- ![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=2F3270&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8) -->
 
 <!--
 ![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=F8F7FF&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:0BD6A6,90:7400b8)
