@@ -1,13 +1,9 @@
-<img width="3400" height="800" alt="github-header-banner" src="https://github.com/user-attachments/assets/01f6ec79-c7ec-4046-b4f6-80d962a8e974" />
-<!-- <img width="3400" height="800" alt="github-header-banner-light-02" src="https://github.com/user-attachments/assets/ad531c3b-b5d2-4b2c-8c38-7f11aab6cf42" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="github-header-banner-light-02.png">
-<img width="3400" height="800" alt="github-header-banner" src="https://github.com/user-attachments/assets/01f6ec79-c7ec-4046-b4f6-80d962a8e974" />
-</picture> -->
+![Light Mode Banner](https://github.com/user-attachments/assets/ad531c3b-b5d2-4b2c-8c38-7f11aab6cf42#gh-light-mode-only)
+![Dark Mode Banner](https://github.com/user-attachments/assets/b7bc7131-5e7d-4998-9f53-f090b5c0a3cb#gh-dark-mode-only)
 
-<!-- Waving Banner [![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=5B5FA8&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-light-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-light-mode-only)
+<!-- Weaving Animation
+[![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=5B5FA8&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-light-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-light-mode-only)
 
 [![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=F0F1FF&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-dark-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-dark-mode-only) -->
 
