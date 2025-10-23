@@ -1,9 +1,10 @@
 <img width="3400" height="800" alt="github-header-banner" src="https://github.com/user-attachments/assets/01f6ec79-c7ec-4046-b4f6-80d962a8e974" />
 
-<!-- ![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=2F3270&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8) -->
+<!-- Waving Banner [![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=5B5FA8&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-light-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-light-mode-only)
+
+[![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=F0F1FF&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-dark-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-dark-mode-only) -->
 
 <!--
-![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=F8F7FF&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:0BD6A6,90:7400b8)
 ## Hi, I'm Riya 👋
 An aspiring Frontend-Developer in training 👩🏻‍💻 -->
 
