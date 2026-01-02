@@ -1,5 +1,5 @@
-![Light Mode Banner](https://github.com/user-attachments/assets/09854a66-0726-4941-b852-2e776010b06b#gh-light-mode-only)
-![Dark Mode Banner](https://github.com/user-attachments/assets/f017d837-d4e0-46ac-8279-f29459ef34c0#gh-dark-mode-only) 
+![Light Mode Banner](https://github.com/user-attachments/assets/21eeeb70-9904-4de3-95d9-5024cf5e40b5#gh-light-mode-only)
+![Dark Mode Banner](https://github.com/user-attachments/assets/852daed6-322a-42a9-bb6e-1edee82cf29d#gh-dark-mode-only) 
 
 <!-- Weaving Animation
 [![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=5B5FA8&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-light-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-light-mode-only)
@@ -7,9 +7,9 @@
 [![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Riya%20👋&animation=fadeIn&fontAlign=24&fontAlignY=28&fontSize=46&fontColor=F0F1FF&desc=An%20aspiring%20Frontend-Developer%20in%20training%20👩🏻‍💻&descSize=34&descAlign=47&descAlignY=48&height=300&type=waving&color=20:72efdd,90:B156E8#gh-dark-mode-only)](https://github.com/riyaueng/github-readme-stats#gh-dark-mode-only) -->
 
 ## 🍥 About me
-- 📚 Currently in training as AI WebApp Solutions Engineer 
-- 🚀 Expected graduation: End of Dezember 2025
-- 🎨 10 years work experience as Graphic Designer and Art Director  
+- 🚀 Graduated AI WebApp Solutions Engineer since Dezember 2025
+- 🎨 10 years work experience as Graphic Designer and Art Director
+- 📌 Available for work 
 
 ## 🛠️ Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev#gh-light-mode-only)
